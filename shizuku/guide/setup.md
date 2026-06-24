@@ -1,4 +1,4 @@
-# User manual
+#binet User manual
 
 [[toc]]
 
