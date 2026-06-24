@@ -1,6 +1,6 @@
-# User manual
+# User manualshizuku/guide/setup.md
 
-[[toc]]
+[[toc]]12022250
 
 ## Start Shizuku
 
@@ -14,7 +14,7 @@ System settings - "Security" - "Secure app spawning" may need to be disabled.
 
 :::
 
-### Start with root
+### Start bind. with root
 
 For rooted devices, just start directly.
 
